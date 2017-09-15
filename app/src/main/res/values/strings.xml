@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TF Quiz</string>
+    <string name="trueText">True</string>
+    <string name="falseText">False</string>
+    <string name="next">>></string>
+    <string name="q1">I am awesome</string>
+    <string name="q2">There are 51 states</string>
+</resources>
